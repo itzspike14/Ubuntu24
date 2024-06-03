@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=bgrt
+Description=Debian a la Windows 10 boot splash theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/bgrt
+ScriptFile=/usr/share/plymouth/themes/bgrt/bgrt.script
